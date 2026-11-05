@@ -46,3 +46,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+
+inclass13/lib/firebase_options.dart
+
+inclass13/android/app/google-services.json
